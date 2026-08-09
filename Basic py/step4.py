@@ -55,12 +55,17 @@ for i in range(21):
 print("----------------------")
 
 #tabel of 3 without 15
-print("Table of 3 without 15")
+print("Table of 3 without 15") 
 for i in range(1,51):
-    if i==15:
+    if i==15:   #it consiumes more time to check for 15 in every iteration so it is not the best way to do it
         continue
     if i%3==0:
         print(i)
+
+for i in range(1, 51):
+    if i % 3 == 0 and i != 15: #best way to do it
+        print(i)
+
 
 print("----------------------")
 
@@ -72,5 +77,17 @@ for i in range(1,1000):
     if i%a==0 and i%b==0:
         print("The first no that is divisible by both", a, "and", b, "is:", i)
         break
+    else:
+        print("No number found that is divisible by both", a, "and", b)
+        break
 
+print("----------------------")
+
+print("Table of 57") 
+for i in range(1,57*10+1): #this was my logic but it loops 570 times unnecessarily
+    if i%57==0:
+        print(i)
+
+for i in range(1,11): #this is the correct way to print table of 57
+    print(i*57)
 print("----------------------")
