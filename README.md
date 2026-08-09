@@ -4,8 +4,13 @@ A collection of basic Python programs for learning the fundamentals of Python pr
 
 ## Contents
 
-- `Basic py/step1.py` - Variables, data types, user input, string concatenation
-- `Basic py/step2.py` - Type casting, string operations, and practice exercises
+### `Very Very Basic py/`
+
+- `step1.py` - Variables, data types, user input, string concatenation
+- `step2.py` - Type casting, string operations, and practice exercises
+- `step3 calculator.py` - A simple calculator using conditional statements
+- `step4.py` - `range()`, `while` loops, `for` loops, `break`/`continue`
+- `step5.py` - Lists: indexing, slicing, `append()`, `insert()`
 
 ## Getting Started
 
@@ -18,7 +23,7 @@ python --version
 2. Run a script:
 
 ```
-python "Basic py/step1.py"
+python "Very Very Basic py/step1.py"
 ```
 
 ## Topics Covered
@@ -30,4 +35,8 @@ python "Basic py/step1.py"
 - String concatenation
 - Type casting
 - String methods (`upper()`, `lower()`, `find()`, `replace()`, `startswith()`)
-- Conditional statements (`if` / `else`)
+- Conditional statements (`if` / `elif` / `else`)
+- Loops (`while`, `for`)
+- `range()` function
+- `break` and `continue`
+- Lists (indexing, slicing, `append()`, `insert()`)
