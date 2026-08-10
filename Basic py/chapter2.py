@@ -5,3 +5,9 @@ list.insert(3, "neighbor")
 print(list)  #list is mutable and does not create a new list with the inserted value
 list.remove("friend")
 print("List after removing 'friend':", list)
+print("Count of 'family' in the list:", list.count("family"))
+
+
+#tuple is immutable and does not allow any changes to its elements after creation
+t=(1,)  #tuple with a single element must have a trailing comma
+print(t)
