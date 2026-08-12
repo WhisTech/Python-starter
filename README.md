@@ -11,6 +11,12 @@ A collection of basic Python programs for learning the fundamentals of Python pr
 - `step3 calculator.py` - A simple calculator using conditional statements
 - `step4.py` - `range()`, `while` loops, `for` loops, `break`/`continue`
 - `step5.py` - Lists: indexing, slicing, `append()`, `insert()`
+- `step6 random no game.py` - Number guessing game using `random` and functions
+
+### `Basic py/`
+
+- `chapter2.py` - More list operations and an introduction to tuples
+- `text_to_speech.py` - Text-to-speech using the `pyttsx3` library
 
 ## Getting Started
 
@@ -39,4 +45,7 @@ python "Very Very Basic py/step1.py"
 - Loops (`while`, `for`)
 - `range()` function
 - `break` and `continue`
-- Lists (indexing, slicing, `append()`, `insert()`)
+- Lists (indexing, slicing, `append()`, `insert()`, `remove()`, `count()`)
+- Tuples (immutable collections)
+- Functions and the `random` module
+- Text-to-speech with `pyttsx3`
