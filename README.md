@@ -49,3 +49,16 @@ python "Very Very Basic py/step1.py"
 - Tuples (immutable collections)
 - Functions and the `random` module
 - Text-to-speech with `pyttsx3`
+
+## Learning Journey
+
+- **Day 1**: Variables, data types, input, strings, and conditionals
+- **Day 2**: Loops (`while`, `for`, `range`)
+- **Day 3**: Lists and tuples
+- **Next**: Functions, dictionaries, and building small projects
+
+## Goals
+
+- Build a strong foundation in Python fundamentals
+- Write clean, readable code step by step
+- Turn each concept into a small working program
