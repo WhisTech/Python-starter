@@ -7,6 +7,11 @@ list.remove("friend")
 print("List after removing 'friend':", list)
 print("Count of 'family' in the list:", list.count("family"))
 
+a=[1,2,3,4,5,45,60,34,23,12,11]
+b=["adit","jyoti","priya","shreya"]
+b.append("sneha")
+
+
 
 #tuple is immutable and does not allow any changes to its elements after creation
 t=(1,)  #tuple with a single element must have a trailing comma
