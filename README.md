@@ -1,6 +1,6 @@
 # Python Starter
 
-A collection of basic Python programs for learning the fundamentals of Python programming.
+A collection of basic Python programs for learning the fundamentals of Python programming...
 
 ## Contents
 
