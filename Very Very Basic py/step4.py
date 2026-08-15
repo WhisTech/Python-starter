@@ -2,7 +2,7 @@
 num = range(10)
 print(num)
 
-# loops
+# while loops 
 
 count = 1
 while count <= 5:
