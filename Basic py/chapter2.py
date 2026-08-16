@@ -10,7 +10,9 @@ print("Count of 'family' in the list:", list.count("family"))
 a=[1,2,3,4,5,45,60,34,23,12,11]
 b=["adit","jyoti","priya","shreya"]
 b.append("sneha")
-b.reverse(b)
+print(b)
+b.reverse()
+print(b)
 
 
 
