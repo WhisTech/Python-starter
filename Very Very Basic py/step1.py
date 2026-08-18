@@ -4,7 +4,7 @@ age=10
 
 #HOw to take input from user
 name = input("Enter your name: ")
-print("Hello", name)
+print("Hello",name)
 
 #type of variable
 print(type(name))
