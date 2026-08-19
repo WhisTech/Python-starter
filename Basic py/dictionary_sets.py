@@ -24,7 +24,7 @@ print(aj.items())
 
 aj = {}
 print(type(aj))
-e = set()         ## empty set
+e = set()         # empty set
 print(type(e))
 
 set = {1, 4, 5, 9, 93, 20, 43, "adi", "aj"}
@@ -59,7 +59,7 @@ else:
 s = set()
 i = 1 
 while(i != 8):
-    num = int(input("enter your no : "))         # # we have to use for loop
+    num = int(input("enter your no : "))         # we have to use for loop
     s.add(num)        
     i+=1
 
