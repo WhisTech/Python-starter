@@ -9,7 +9,7 @@ A collection of basic Python programs for learning the fundamentals of Python pr
 - `step1.py` - Variables, data types, user input, string concatenation
 - `step2.py` - Type casting, string operations, and practice exercises
 - `step3 calculator.py` - A simple calculator using conditional statements
-- `step4.py` - `range()`, `while` loops, `for` loops, `break`/`continue`
+- `step4.py` - `range()`, `while` loops, `for` loops, `break`/`continue` 
 - `step5.py` - Lists:indexing, slicing, `append()`, `insert()`
 - `step6 random no game.py` - Number guessing game using `random` and functions
 
