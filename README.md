@@ -13,7 +13,7 @@ A collection of basic Python programs for learning the fundamentals of Python pr
 - `step5.py` - Lists:indexing, slicing, `append()`, `insert()`
 - `step6 random no game.py` - Number guessing game using `random` and functions
 
-### `Basic py/`
+### `Basic py/` 
 
 - `chapter2.py` - More list operations and an introduction to tuples
 - `text_to_speech.py` - Text-to-speech using the `pyttsx3` library
