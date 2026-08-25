@@ -4,7 +4,7 @@ A collection of basic Python programs for learning the fundamentals of Python pr
 
 ## Contents
 
-### `Very Very Basic py/`
+### `Very Very Basic py/` 
 
 - `step1.py` - Variables, data types, user input, string concatenation 
 - `step2.py` - Type casting, string operations, and practice exercises
