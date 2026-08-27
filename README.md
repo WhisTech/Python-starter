@@ -2,7 +2,7 @@
  
 A collection of basic Python programs for learning the fundamentals of Python programming...
 
-## Contents 
+## Contents  
 
 ### `Very Very Basic py/` 
 
