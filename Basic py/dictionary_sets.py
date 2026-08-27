@@ -12,7 +12,7 @@ print(marks.values())
 
 marks["age2"]=30
 print(marks.items())
- 
+  
 print(marks["adi"])
 
 print(marks.get("adii"))
