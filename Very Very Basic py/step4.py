@@ -66,6 +66,12 @@ for i in range(1, 51):
     if i % 3 == 0 and i != 15: #best way to do it
         print(i)
 
+for i in range(1,11):
+    
+    if i == 15:         #ultimate way to do
+        continue
+    else:
+        print(i*3)
 
 print("----------------------")
 
@@ -90,4 +96,10 @@ for i in range(1,57*10+1): #this was my logic but it loops 570 times unnecessari
 
 for i in range(1,11): #this is the correct way to print table of 57
     print(i*57)
+
+    for i in range (0,571,57):
+        print(i)
+
 print("----------------------")
+
+
