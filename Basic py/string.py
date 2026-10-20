@@ -1,5 +1,5 @@
-# name = "aditya"
-# lname = "Jadhav"
+name = "aditya"
+lname = "Jadhav"
 # print(name)
 # # string is immutable
 
@@ -22,3 +22,7 @@
 # print(n)
 
 # print(name + " " + lname)
+
+# print(name * 3) #in string * is multiplication operator used to reapit the strings
+
+print('i' in name) #check the membership of a string in another string
