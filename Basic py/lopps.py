@@ -4,7 +4,7 @@
 #     sum+=i
 # print(f'the sum of numbers from 1 to {num} is: {sum}')
 
-# # Factorial of number using for loop 
+# # Factorial of number using for loop
 # num = int(input("Enter your no "))
 # product = 1
 # for i in range(1,num+1):
@@ -20,7 +20,7 @@
 # for i in emp:
 #     print(i,emp[i])
 
-# print the tabel of no by taking no from user 
+# print the tabel of no by taking no from user
 # num = int(input('enter no to print the tabel: '))
 # for i in range(1,11):
 #     print(f'{num} X {i} = {num*i}')
@@ -30,7 +30,22 @@
 #     print(i)
 
 # print the index of an list using for loop
-# list = ['adi','sai','kumar','reddy']
+# list = ["adi", "sai", "kumar", "reddy"]
 # for i in range(len(list)):
 #     print(i)
+
+# profit = [2, 5, 6, 8, 3, 4, 6]
+# for i in range(len(profit)):
+#     q=i+1
+#     print(f"profit of quator {q} is: {profit[i]}")
+
+# find the highest no in the list
+# high = profit[0]
+# for i in profit:
+#     if i > high:
+#         high = i  
+# print(high)
+
+
+
 
